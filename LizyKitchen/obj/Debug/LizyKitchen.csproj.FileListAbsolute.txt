@@ -24,3 +24,13 @@
 /Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/obj/Debug/LizyKitchen.csproj.CoreCompileInputs.cache
 /Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/obj/Debug/LizyKitchen.dll
 /Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/obj/Debug/LizyKitchen.pdb
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/DnsClient.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/MongoDB.Bson.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/MongoDB.Driver.Core.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/MongoDB.Driver.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/System.Buffers.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/MongoDB.Bson.xml
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/DnsClient.xml
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/MongoDB.Driver.Core.xml
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen/bin/MongoDB.Driver.xml

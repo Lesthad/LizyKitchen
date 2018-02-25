@@ -1,0 +1,50 @@
+﻿@model IEnumerable<LizyKitchen.Models.Recipe>
+
+@{
+    ViewBag.Title = "Recipies Listings";
+}
+
+<h2>Rental Listings</h2>
+
+<p>
+        @Html.ActionLink("Post Recipe", "#")
+</p>
+
+<table class="table table-inverse">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CookTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Level)
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+    @foreach(var recipe in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => recipe.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => recipe.ShortDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => recipe.CookTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => recipe.Level)
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

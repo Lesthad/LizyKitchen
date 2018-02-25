@@ -23,3 +23,13 @@
 /Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/obj/Debug/LizyKitchen.Tests.csproj.CoreCompileInputs.cache
 /Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/obj/Debug/LizyKitchen.Tests.dll
 /Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/obj/Debug/LizyKitchen.Tests.pdb
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/MongoDB.Bson.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/MongoDB.Driver.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/MongoDB.Driver.Core.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/DnsClient.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/System.Buffers.dll
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/MongoDB.Bson.xml
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/MongoDB.Driver.xml
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/MongoDB.Driver.Core.xml
+/Users/miguelperaza/Projects/LizyKitchen/LizyKitchen.Tests/bin/Debug/DnsClient.xml
