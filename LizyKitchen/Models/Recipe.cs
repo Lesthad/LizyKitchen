@@ -35,14 +35,16 @@ namespace LizyKitchen.Models
 
         }
 
-        /*public Recipe(PostRecipe postRecipe)
+        public Recipe(PostRecipe postRecipe)
         {
             Title = postRecipe.Title;
             ShortDescription = postRecipe.ShortDescription;
+            CookTime = postRecipe.CookTime;
+            Level = postRecipe.Level;
             LongDescription1 = postRecipe.LongDescription1;
             LongDescription2 = postRecipe.LongDescription2;
             LongDescription3 = postRecipe.LongDescription3;
             ImageUrl = postRecipe.ImageUrl;
-        }*/
+        }
     }
 }

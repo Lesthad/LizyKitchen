@@ -161,6 +161,7 @@
     <Content Include="font\glyphicons-halflings-regular.ttf" />
     <Content Include="font\glyphicons-halflings-regular.woff" />
     <Content Include="Views\Recipe\Index.cshtml" />
+    <Content Include="Views\Recipe\Post.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-3.0.0.slim.min.map" />
