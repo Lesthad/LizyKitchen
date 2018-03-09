@@ -1,0 +1,81 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/***************************************************************************/
+/*Styles for the Recipes*/
+/***************************************************************************/
+/*in case your dealing with a block element apply this to the element itself*/
+.center-block {
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+}
+/*.Recipe{
+    padding: 2px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.Recipe h2{
+    color: maroon;
+    padding: 5px;
+    background: #cccc99;
+}
+
+.Recipe h3{
+    color: maroon;
+    padding: 5px;
+}
+
+.Recipe p{
+    font-size: .8em;
+}
+
+.Recipe img.myThumbnail{
+    border-radius: 5px;
+    width: 170px;
+    height: 170px;
+    padding-bottom: 10px;
+}
+
+.Recipe img.Big{
+    width: 300px;
+    height: 300px;
+    padding-bottom: 10px;
+}*/
+
+
+/*.Recipe img.myThumbnail:hover{
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}*/
+
+/*****************************************************/
+/*dl {text-align:center;font-size:.95em;margin-top:25px;}
+dt,dd {width:10.5em;float:left;}
+dt {margin-bottom:5.5em;}
+dd {margin:90px 0 0 -10.5em;}
+img {vertical-align:bottom;border:1px solid #999;padding:2px;background:#fff; width: 150px; height: 150px;}
+em {display:block;font-weight:bold;margin-bottom:5px;}
+dl a:hover img,dl a:active img,dl a:focus img {background:#f33;}*/
