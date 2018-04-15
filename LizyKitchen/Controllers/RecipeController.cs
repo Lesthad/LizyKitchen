@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using LizyKitchen.App_Start;
@@ -16,7 +17,8 @@ namespace LizyKitchen.Controllers
 
         public ActionResult Index()
         {
-            var recipies = Context.Recipes.Find(new BsonDocument()).ToEnumerable();
+            var recipies = Context.Recipes.Find(new BsonDocument())
+                                        .ToEnumerable();
 
             return View(recipies);
         }
