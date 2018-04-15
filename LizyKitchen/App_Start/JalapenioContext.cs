@@ -14,14 +14,7 @@ namespace LizyKitchen.App_Start
             database = client.GetDatabase("jalapenio");
         }
 
-        public IMongoCollection<Recipe> Recipes
-        {
-            get
-            {
-                var collection = database.GetCollection<Recipe>("Recipe");
-
-                return collection;
-            }
-        }
+        //Shorter way
+        public IMongoCollection<Recipe> Recipes => database.GetCollection<Recipe>("Recipe");
     }
 }
